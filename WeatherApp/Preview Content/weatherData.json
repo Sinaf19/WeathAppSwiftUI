@@ -1,0 +1,46 @@
+{
+    "coord": {
+        "lon": -75,
+        "lat": 43
+    },
+    "weather": [
+        {
+            "id": 804,
+            "main": "Clouds",
+            "description": "overcast clouds",
+            "icon": "04d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 13.82,
+        "feels_like": 13.69,
+        "temp_min": 11.83,
+        "temp_max": 16.29,
+        "pressure": 1015,
+        "humidity": 93,
+        "sea_level": 1015,
+        "grnd_level": 994
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 1.2,
+        "deg": 250,
+        "gust": 1.91
+    },
+    "clouds": {
+        "all": 100
+    },
+    "dt": 1694957231,
+    "sys": {
+        "type": 2,
+        "id": 2022886,
+        "country": "US",
+        "sunrise": 1694947294,
+        "sunset": 1694992068
+    },
+    "timezone": -14400,
+    "id": 5127233,
+    "name": "Mohawk",
+    "cod": 200
+}
